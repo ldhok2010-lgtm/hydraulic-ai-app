@@ -1,3 +1,7 @@
+import os
+# 必须在 import deepxde 之前执行
+os.environ["DDE_BACKEND"] = "tensorflow"
+
 import streamlit as st
 import deepxde as dde
 import numpy as np
