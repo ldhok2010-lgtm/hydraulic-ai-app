@@ -1,0 +1,7 @@
+deepxde
+tensorflow
+tensorflow-probability
+tf-keras
+matplotlib
+numpy
+streamlit
